@@ -1,0 +1,1 @@
+# kretin_style-sddm_theme
