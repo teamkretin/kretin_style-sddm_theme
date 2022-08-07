@@ -1,0 +1,15 @@
+[SddmGreeterTheme]
+Name=kretin-style
+Description=kretin Style SDDM Theme
+Author=Team Kretin
+License=CC-BY-SA
+Type=sddm-theme
+Version=0.1
+Website=
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=style@teamkretin.com
+Theme-Id=kretin-style
+Theme-API=2.0
